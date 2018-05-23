@@ -9,6 +9,12 @@ homepage: https://github.com/aiya000/hs-doromochi
 description: A supporter for your pomodoro technics with Tohoku Zunko
 synopsis: A pomodoro technic app （・ω・）
 
+dependencies:
+  - base >=4.7 && <5
+  - rio
+  - threepenny-gui
+  - time
+
 ghc-options:
   - -Wall
   - -Wcompat
@@ -60,10 +66,6 @@ default-extensions:
   - TypeFamilies
   - TypeSynonymInstances
   - ViewPatterns
-
-dependencies:
-  - base >=4.7 && <5
-  - rio
 
 library:
   source-dirs: src
