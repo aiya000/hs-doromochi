@@ -21,9 +21,6 @@ under the [（ず・ω・きょ）](http://zunko.jp/guideline.html).
 Please see [here](resources/images/LICENSE.md)
 for more information.
 
-此度は僕が「アプリ作るからずんちゃんの絵を描いてくれ！！」と叫んだときに反応してくれて、
-こんなにも可愛いずんちゃんを提供してたことを感謝します [\@HassakuTb](https://twitter.com/HassakuTb) :bow:
-
 ## Sounds
 [フリー効果音 On-Jin ～音人～](https://on-jin.com/) has the copyright of
 [the sound library](https://github.com/aiya000/eta-doromochi/blob/master/sounds)
