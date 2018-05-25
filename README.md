@@ -1,5 +1,5 @@
 # doromochi
-A useful app for pomodoro technics, with Tohoku Zunko (東北ずん子)!
+A useful app for the pomodoro technique, with Tohoku Zunko (東北ずん子)!
 
 # :gift: How to install :gift:
 WIP

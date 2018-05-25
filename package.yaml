@@ -6,8 +6,8 @@ maintainer: aiya000
 copyright: 2018 aiya000
 license: MIT
 homepage: https://github.com/aiya000/hs-doromochi
-description: A supporter for your pomodoro technics with Tohoku Zunko
-synopsis: A pomodoro technic app （・ω・）
+description: A supporter for your pomodoro technique with Tohoku Zunko
+synopsis: A pomodoro technique app （・ω・）
 
 dependencies:
   - base >=4.7 && <5
