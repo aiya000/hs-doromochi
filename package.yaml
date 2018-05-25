@@ -11,9 +11,14 @@ synopsis: A pomodoro technique app （・ω・）
 
 dependencies:
   - base >=4.7 && <5
+  - data-default
+  - here
+  - lens
   - rio
+  - suspend
   - threepenny-gui
   - time
+  - timers
 
 ghc-options:
   - -Wall
